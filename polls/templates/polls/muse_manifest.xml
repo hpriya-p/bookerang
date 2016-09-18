@@ -1,0 +1,23 @@
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="www.bookerang.ca" resolutions="1x" timestamp="1474132957313">
+  <folder name="css">
+    <file name="site_global.css" crc="4052507572"/>
+    <file name="index.css" crc="287483633" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index"/>
+    <file name="museutils.js" crc="183364071" ref="index"/>
+    <file name="webpro.js" crc="3803554875" ref="index"/>
+    <file name="form_check.php" crc="277267350" ref="index"/>
+    <file name="form_throttle.php" crc="3908387251" ref="index"/>
+    <file name="form_process.php" crc="24249335" ref="index"/>
+    <file name="form-u75.php" crc="400894106" ref="index"/>
+    <file name="jquery.watch.js" crc="71412426" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="u91-17.png" crc="311828129" ref="index"/>
+    <file name="u91-17-r.png" crc="3844863548" ref="index"/>
+    <file name="u91-17-m.png" crc="446077895" ref="index"/>
+    <file name="u91-17-fs.png" crc="51175883" ref="index"/>
+  </folder>
+  <file name="index.html" crc="32048953" seo="true" mt="1474130610058" redirect="true"/>
+</manifest>
